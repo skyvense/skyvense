@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skyvense
-- 👀 I’m interested in C++/Arduino/Networking/TCPIP/High performance servers/kernel module
+- 👀 I’m interested in C/C++/Arduino/Networking/TCPIP/High performance servers/kernel module
 - 🌱 I’m currently learning hardware design
 - 💞️ I’m looking to collaborate on any interesting micro device programing
 - 📫 How to reach me: skyvense@gmail.com
